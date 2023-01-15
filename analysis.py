@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # read the csv file
-df = pd.read_csv("D:\\Python_Winter_Training_2023\\day-08\\dataset.csv")
+df = pd.read_csv("dataset.csv")
 # print(df.head(10))
 
 # find total number of runs Kohli has scored
